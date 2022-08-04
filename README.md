@@ -2,21 +2,14 @@
 
 ## Description
 
-CRM is a mobile app that lets sales representatives update the customer information. They are responsible for reaching out to customers and potential customers in their region.
+This is a simple Customer Relationship Management App is a mobile app that is build in react native that lets sales representatives and update the customer information.
 
 Sales representatives can add a new customer or edit the info of a customer. They can see the list of customers in their region and view individual customer information.
 
-# Getting Started
+## How to run this project
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+To run this project, run commands on folder terminal,
 
-## Installation
-
-- clone the github repo by `git clone https://github.com/muhammad002022skipq/CRM-App.git` command
-- Run `npm install` to install all the dependencies required to run this project
-- Run `npm start` to start development server
+- `npm install`
+- `npm start`
 - Scan the QR code using Expo Go on your mobile device
-
-# Author
-
-- [Muhammad Zeeshan](https://github.com/muhammad002022skipq)
