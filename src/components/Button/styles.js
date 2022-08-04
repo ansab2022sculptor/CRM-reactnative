@@ -5,10 +5,10 @@ const stylesFn = ({ disabled = false }) => {
   let color;
 
   if (disabled) {
-    backgroundColor = "grey";
-    color = "black";
+    backgroundColor = "green";
+    color = "white";
   } else {
-    backgroundColor = "#221";
+    backgroundColor = "red";
     color = "white";
   }
 
